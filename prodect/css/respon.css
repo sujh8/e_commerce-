@@ -1,0 +1,18 @@
+@media(max-width: 991px) {
+    .header {
+        padding: 5px 0;
+    }
+    .header .navbar-nav {
+        background-color: #ffffff;
+    }
+    .header .navbar #collapsibleNavbar .nav-item .nav-link {
+        padding: 10px 15px 10px;
+    }
+    .header .navbar-light .navbar-toggler {
+        background-color: #ffffff;
+        padding: 0;
+        height: 38px;
+        width: 45px;
+        border: none;
+    }
+}

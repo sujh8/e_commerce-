@@ -1,0 +1,29 @@
+<section class="products-section">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-lg-7">
+                <div class="section title">
+                    <h1 class="title">our roduct</h1>
+                    <h2 class="subtitle">we have</h2>
+                </div>
+
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-3">
+                <div class="prod">
+                    <div class="proimg">
+                    </div>
+                    <div class="content">
+                        <div class="price">
+                            <span class="new"></span>
+                            <span class="old"></span>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+</section>
